@@ -23,7 +23,7 @@ The dashboard titled 'Airbnb Listing Analysis and Trends' provides an interactiv
 
 ## Tools Used
 - **Tableau Public**: For creating and publishing the interactive dashboard.
-- **Data Sources**: Public datasets from Airbnb (if applicable).
+- **Data Sources**: Public datasets from Airbnb.
 
 ## Viewing the Dashboard
 To interact with the live dashboard, please visit the following link: [Airbnb Listing Analysis and Trends](https://public.tableau.com/app/profile/mohammad.tamim/viz/DashboardProject-Airbnb/AirbnbListingDashboard).
