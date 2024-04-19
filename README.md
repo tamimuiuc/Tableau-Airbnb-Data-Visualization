@@ -14,7 +14,7 @@ The dashboard titled 'Airbnb Listing Analysis and Trends' provides an interactiv
 - **Price vs. Reviews**: Examine the relationship between price and the number of reviews for listings.
 
 ### Screenshot
-![Airbnb Listing Analysis and Trends]([Screenshot_2024-04-19_123802.png](https://github.com/tamimuiuc/Tableau-Airbnb-Data-Visualization/blob/main/Dashboard-Screenshot.png))
+![Airbnb Listing Analysis and Trends](https://github.com/tamimuiuc/Tableau-Airbnb-Data-Visualization/blob/main/Dashboard-Screenshot.png)
 
 ## Key Insights
 - Listings, revenue, and the number of hosts have seen a steady increase over the years.
